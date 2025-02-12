@@ -29,7 +29,7 @@ Além disso, este projeto depende de algumas bibliotecas Python que estão lista
 
 1- Clone este repositório para o seu ambiente local:
 
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/gustavomichels/LH_CD_GUSTAVOMICHELS.git
 
 2- Navegue até o diretório do projeto:
 
@@ -47,7 +47,7 @@ Certifique-se de que os dados necessários estão no diretório correto (ou ajus
 
 Execute o script principal:
 
-python nome_do_arquivo.py
+python Desafio.py
 
 ## Estrutura do Projeto
 
